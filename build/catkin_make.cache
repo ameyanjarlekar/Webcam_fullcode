@@ -1,0 +1,2 @@
+ip_cam_10:usb_cam:video_stream_opencv
+-DCATKIN_DEVEL_PREFIX=/home/ameya/balldetec_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ameya/balldetec_ws/install -G Unix Makefiles

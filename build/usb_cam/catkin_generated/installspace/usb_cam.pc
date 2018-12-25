@@ -1,0 +1,8 @@
+prefix=/home/ameya/balldetec_ws/install
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/ameya/balldetec_ws/install/include
+Libs: -L/home/ameya/balldetec_ws/install/lib -lusb_cam
+Requires: 

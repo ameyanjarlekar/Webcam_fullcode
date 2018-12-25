@@ -1,0 +1,8 @@
+prefix=/home/ameya/balldetec_ws/devel
+
+Name: ip_cam_10
+Description: Description of ip_cam_10
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ameya/balldetec_ws/devel/lib 
+Requires: 
